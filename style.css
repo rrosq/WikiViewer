@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: arial;
+  }
+  
+  h1 {
+    color: grey;
+    font-size: 45px;
+  }
+  
+  #search {
+    margin-top: 20px;
+  }
+  
+  #results {
+    text-align: left;
+  }
+  
+  a {
+    color: grey;
+  }
+  
+  p {
+    font-size: 12px;
+    font-style: italic;
+  }
